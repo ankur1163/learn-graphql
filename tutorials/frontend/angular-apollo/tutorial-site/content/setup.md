@@ -14,6 +14,7 @@ Our task will be to convert the "static" UI into a working realtime app.
 3. Install dependencies and run the "static" app
     - `npm install`
     - `npm start`
+    Note - You might face issues in typescript. As this repo requires certain version of typescript. SO, make sure , you do npm ci instead of npm install
 4. Signup/login as a user to load the todo app page
 
 This is what you should see after the steps above:
